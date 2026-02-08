@@ -18,3 +18,8 @@ SELECT * FROM Employee ORDERBY EName;
 
 select * from Employee;
 select DISTINCT(EAddress) from Employee;
+
+
+
+
+CREATE table Department(EmployeeID int,, EDepartment varchar(20), ERole varchar(50), EExperience int);
